@@ -9,7 +9,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "gitnjole\\simplemvc": "./"
+            "gitnjole\\simplemvc\\": "./"
         }
     },
     "require": {}
