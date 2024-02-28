@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core;
+namespace gitnjole\simplemvc;
 
 abstract class Model
 {

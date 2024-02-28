@@ -1,6 +1,6 @@
 <?php
 
-namespace app\core\middlewares;
+namespace gitnjole\simplemvc\middlewares;
 
 abstract class BaseMiddleware
 {

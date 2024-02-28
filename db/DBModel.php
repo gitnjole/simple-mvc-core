@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\db;
+namespace gitnjole\simplemvc\db;
 
-use app\core\Model;
-use app\core\Application;
+use gitnjole\simplemvc\Model;
+use gitnjole\simplemvc\Application;
 
 abstract class DBModel extends Model
 {

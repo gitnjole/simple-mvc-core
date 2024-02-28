@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+namespace gitnjole\simplemvc;
+use gitnjole\simplemvc\Application;
+use gitnjole\simplemvc\middlewares\BaseMiddleware;
 
 class Controller
 {
@@ -10,7 +10,7 @@ class Controller
     public string $action = '';
 
     /**
-     * @var \app\core\middlewares\BaseMiddleware[]
+     * @var \gitnjole\simplemvc\middlewares\BaseMiddleware[]
      */
     protected array $middlewares = [];
 

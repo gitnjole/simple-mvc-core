@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace gitnjole\simplemvc;
 
-use app\core\db\DBModel;
-use app\core\db\Database;
+use gitnjole\simplemvc\db\DBModel;
+use gitnjole\simplemvc\db\Database;
 
 class Application
 {

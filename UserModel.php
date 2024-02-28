@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace gitnjole\simplemvc;
 
-use app\core\db\DBModel;
+use gitnjole\simplemvc\db\DBModel;
 
 abstract class UserModel extends DBModel
 {

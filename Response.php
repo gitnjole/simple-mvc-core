@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace gitnjole\simplemvc;
 
 class Response
 {

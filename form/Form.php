@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace gitnjole\simplemvc\form;
 
-use app\core\Model;
+use gitnjole\simplemvc\Model;
 
 class Form
 {

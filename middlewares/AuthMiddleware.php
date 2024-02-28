@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core\middlewares;
+namespace gitnjole\simplemvc\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use gitnjole\simplemvc\Application;
+use gitnjole\simplemvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

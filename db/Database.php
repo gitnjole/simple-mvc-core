@@ -1,8 +1,8 @@
 <?php 
 
-namespace app\core\db;
+namespace gitnjole\simplemvc\db;
 
-use app\core\Application;
+use gitnjole\simplemvc\Application;
 
 class Database
 {

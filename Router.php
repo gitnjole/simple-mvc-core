@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace gitnjole\simplemvc;
 
-use app\core\exception\NotFoundException;
+use gitnjole\simplemvc\exception\NotFoundException;
 
 class Router
 {
@@ -42,7 +42,7 @@ class Router
 
         if (is_array($callback)) {
             /**
-             * @var \app\core\Controller $controller
+             * @var \gitnjole\simplemvc\Controller $controller
              */
             $controller = new $callback[0]();
             Application::$app->controller = $controller;
