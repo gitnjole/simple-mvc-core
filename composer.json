@@ -1,0 +1,16 @@
+{
+    "name": "ac/simple-mvc-core",
+    "description": "Core for the Simple MVC framework",
+    "autoload": {
+        "psr-4": {
+            "Ac\\SimpleMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Antonio Cahun",
+            "email": "cahunantonio1@gmail.com"
+        }
+    ],
+    "require": {}
+}
