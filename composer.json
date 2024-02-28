@@ -1,11 +1,6 @@
 {
-    "name": "ac/simple-mvc-core",
+    "name": "gitnjole/simple-mvc-core",
     "description": "Core for the Simple MVC framework",
-    "autoload": {
-        "psr-4": {
-            "Ac\\SimpleMvcCore\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Antonio Cahun",
